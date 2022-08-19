@@ -1,0 +1,17 @@
+@charset "utf-8";
+@import   "blocks/block-all";
+@import "blocks/famous";
+@import "blocks/footer";
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600;700;800&display=swap');
+
+
+
+.container {
+     width: 100%;
+     max-width: 1240px;
+     margin-left: auto;
+     margin-right: auto;
+     padding-left: 20px;
+     padding-right: 20px;
+}
